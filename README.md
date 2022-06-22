@@ -8,3 +8,7 @@ We work at an AgriTech, which has a mix of domain experts, data scientists, data
 - Data Fetching and Loading: From [USGS 3DEP](https://registry.opendata.aws/usgs-lidar/). Our task is to write a modular python code/package to connect to the API, query the data model to select with  a specified input and get a desired output
 - Terrain Visualization: To include an option to graphically display the returned elevation files as either a 3D render plot or as a heatmap. The following is an example visualisation.
 - Data Transformation
+
+## Strucure 
+- Script: Where python scripts will be found which will include scripts for data fitching, visualization and others.
+- Notebook: Where we will explore using using the python files inside script folder
