@@ -1,0 +1,10 @@
+{
+    "pipeline": [
+      {
+        "bounds": "",
+        "filename": "",
+        "type": "readers.ept",
+        "tag": "readdata"
+      }
+    ]
+}
