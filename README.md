@@ -22,7 +22,7 @@ We work at an AgriTech, which has a mix of domain experts, data scientists, data
 - Matplotlib
 
 ## Prerequisites
-This are the prerequistites that users need beforehand to install and use this code
+These are the prerequistites that users need beforehand to install and use this code
 
 - PDAL
 - geopandas
