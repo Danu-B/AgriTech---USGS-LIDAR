@@ -12,6 +12,7 @@ We work at an AgriTech, which has a mix of domain experts, data scientists, data
 - Data Transformation
 
 ## Structure 
+- data: Where the data neccessary for this project will be stored.
 - Script: Where python scripts will be found which will include scripts for data fitching, visualization and others.
 - Notebook: Where we will explore using using the python files inside script folder
 
