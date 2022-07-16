@@ -1,4 +1,6 @@
 # AgriTech-USGS-LIDAR
+
+## About the project
 - This project aims to allow you retrieve visualize USGS 3DEP lidar point cloud data.
 ## Overview 
 
@@ -9,6 +11,29 @@ We work at an AgriTech, which has a mix of domain experts, data scientists, data
 - Terrain Visualization: To include an option to graphically display the returned elevation files as either a 3D render plot or as a heatmap. The following is an example visualisation.
 - Data Transformation
 
-## Strucure 
+## Structure 
 - Script: Where python scripts will be found which will include scripts for data fitching, visualization and others.
 - Notebook: Where we will explore using using the python files inside script folder
+
+## Built with 
+- PDal
+- Shapely
+- Geopandas
+- Matplotlib
+
+## Prerequisites
+This are the prerequistites that users need beforehand to install and use this code
+
+- PDAL
+- geopandas
+- numpy
+- pandas
+- Shapely
+
+### Contact 
+dbulom12@gmail.com
+
+ 
+
+
+
