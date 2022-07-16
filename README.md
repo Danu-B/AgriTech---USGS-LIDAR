@@ -31,6 +31,9 @@ These are the prerequistites that users need beforehand to install and use this 
 - pandas
 - Shapely
 
+## Installation
+git clone https://github.com/Danu-B/AgriTech-USGS-LIDAR.git
+
 ### Contact 
 dbulom12@gmail.com
 
