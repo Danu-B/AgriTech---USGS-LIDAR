@@ -34,6 +34,11 @@ These are the prerequistites that users need beforehand to install and use this 
 ## Installation
 git clone https://github.com/Danu-B/AgriTech-USGS-LIDAR.git
 
+## Reference
+LAStools: converting, filtering, viewing, processing, and compressing LIDAR data in LAS format (unc.edu) 
+https://github.com/PDAL/lambda 
+https://paulojraposo.github.io/pages/PDAL_tutorial.html 
+
 ### Contact 
 dbulom12@gmail.com
 
